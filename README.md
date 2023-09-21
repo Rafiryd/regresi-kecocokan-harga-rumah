@@ -12,4 +12,4 @@ Harga visualisasi
 ![Alt Text](harga.png)
 
 Prediksi harga dengan metode regresi linear
-![Alt Text](laporan.png)
+![Alt Text](Laporan.png)
