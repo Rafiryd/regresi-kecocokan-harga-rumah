@@ -22,3 +22,8 @@ Harga visualisasi
 Prediksi harga dengan metode regresi linear
 
 ![Alt Text](Laporan.png)
+
+
+Harga actual vs Harga prediksi
+
+![Alt Text](harga ketetapan.png)
