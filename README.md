@@ -26,4 +26,4 @@ Prediksi harga dengan metode regresi linear
 
 Harga actual vs Harga prediksi
 
-![Alt Text](harga ketetapan.png)
+![Alt Text](visual.png)
