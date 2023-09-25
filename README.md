@@ -27,3 +27,9 @@ Prediksi harga dengan metode regresi linear
 Harga actual vs Harga prediksi
 
 ![Alt Text](visual.png)
+
+
+
+fitur berpengaruh dari harga rumah 
+
+![Alt Text](coeffienct.png)
